@@ -1,6 +1,6 @@
 # BMI Calculator
 
-![BMI Calculator Screenshot](bmi_calculator_screenshot.png)
+<img width="635" alt="Screenshot 2023-12-01 223057" src="https://github.com/darpanITadept/BMI_Calculator/assets/112990024/b10d24db-53f5-42f6-aea6-859242070dfe">
 
 ## Overview
 Welcome to the BMI Calculator project – a sophisticated JavaFX application designed to empower users in assessing their Body Mass Index (BMI) effortlessly. This tool offers an intuitive and visually appealing interface, allowing users to calculate their BMI, interpret the results, and gain insights into their health condition.
