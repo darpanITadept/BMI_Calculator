@@ -57,7 +57,7 @@ Welcome to the BMI Calculator project – a sophisticated JavaFX application des
 
 ## Screenshots
 
-![BMI Calculator Screenshot 2](bmi_calculator_screenshot2.png)
+<img width="634" alt="Screenshot 2023-12-01 223202" src="https://github.com/darpanITadept/BMI_Calculator/assets/112990024/810f9892-fa02-4edd-a779-be293196e508">
 
 ## Acknowledgments
 
